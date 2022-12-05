@@ -1,8 +1,8 @@
 <div>
     <h1> Criação de calculadora simples utilizando as seguintes linguagens de programação:</h1>
-    <img src="./CALCULADORA/imagens/html.jpg">
-    <img src="./CALCULADORA/imagens/css.jpg">
-    <img src="./CALCULADORA/imagens/js.jpg">
+    <img src="./CALCULADORA/imagens/html.png">
+    <img src="./CALCULADORA/imagens/css.png">
+    <img src="./CALCULADORA/imagens/js.png">
 </div>
 <div>
     <h1> Principais dificuldades encontradas: </h1>
